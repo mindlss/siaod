@@ -1,0 +1,7 @@
+function badExample() {
+    if (a > b[1) {
+        console.log("Ошибка в скобках");
+    } else {
+        console.log("Закрывающая скобка отсутствует";
+    }
+}
